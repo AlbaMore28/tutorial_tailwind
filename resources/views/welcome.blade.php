@@ -10,10 +10,16 @@
 </head>
 <body>
     <div class="contenedor">
-        <p class="font-mont font-thin">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime quisquam harum unde iure adipisci doloribus perspiciatis animi amet consequuntur iusto ex sint consectetur facilis similique laboriosam dolores, aliquid modi.</p>
-        <p class="font-mont font-light">Quia voluptatem blanditiis at non! Iste facilis consequuntur temporibus unde libero magnam enim ea ab beatae. Qui repellat corrupti repudiandae excepturi, aut odio dolores ad. Illum magni incidunt corporis ea!</p>
-        <p class="font-mont font-semibold">Et rerum officiis quae in, eaque dolores voluptate fuga corrupti ipsum, illum, aperiam adipisci magnam repudiandae optio sequi commodi? Ullam adipisci tempora rem nisi sit laborum nesciunt cum voluptatibus maiores.</p>
-        <p class="font-mont font-black">Nemo exercitationem, animi, quam unde explicabo at, porro repudiandae assumenda voluptatum illo sunt. Voluptate quisquam aspernatur, quia tempore voluptatibus quod doloribus nihil porro suscipit hic! Repellat consectetur beatae voluptatem placeat.</p>
+        <h1 class="text-xl font-bold text-left md:text-center lg:text-right underline uppercase">Este es el título</h1>
+        <p class="text-red-700 hover:text-opacity-75">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, neque eos aspernatur nulla quaerat recusandae provident laborum quod veniam tempore eaque velit sed impedit. Delectus rem dolorem quidem quas omnis.</p>
+        <ul class="list-decimal md:list-disc list-inside">
+            <li class="line-through">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat vitae nesciunt error delectus quod possimus veritatis sed, temporibus molestias, natus blanditiis tempore doloribus adipisci deserunt, et aliquam quas quisquam ab.</li>
+            <li>Dolore architecto ab doloremque consectetur itaque accusamus consequuntur vel vitae magnam incidunt iste, ipsa distinctio, amet, at ut dolor! Esse incidunt optio, minus fuga expedita error iusto. Aliquid, itaque optio.</li>
+            <li>Enim sed asperiores a obcaecati placeat quia recusandae eaque est natus expedita rem, reiciendis repellat impedit minima cumque. Doloremque totam obcaecati libero quo maxime recusandae voluptate officia, porro non quibusdam.</li>
+            <li>Quod repellat ad dolor sit ab quas veritatis expedita corrupti dolore iure vero sunt voluptate numquam inventore impedit esse beatae porro, officiis accusamus totam culpa adipisci. Quidem mollitia magnam corrupti!</li>
+            <li class="lowercase">Possimus dolorum neque rem suscipit dolores ratione enim blanditiis vel temporibus, a quos? Optio atque dolore molestiae aut possimus architecto recusandae illum? Mollitia vel explicabo, aut soluta sequi eos itaque.</li>
+        </ul>
+        <p class="capitalize">alba moreno peinado</p>
     </div>
 </body>
 </html>
