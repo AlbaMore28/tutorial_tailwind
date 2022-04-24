@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="contenedor pt-5">
-        <div class="w-64 h-64 bg-gray-500 border-b-8 border-blue-800 hover:border-indigo-500"></div>
+        <div class="w-64 h-64 bg-gray-500 border-b-8 border-blue-800 hover:border-opacity-75"></div>
     </div>
 </body>
 </html>
