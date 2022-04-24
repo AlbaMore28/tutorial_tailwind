@@ -8,16 +8,18 @@
     <title>Tutorial Tailwind</title>
 </head>
 <body>
-    <div class="contenedor">
-        <div class="bg-gray-300 p-4 h-64 overflow-auto">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis esse suscipit, harum, ipsum aliquam delectus ipsa ducimus exercitationem incidunt totam temporibus maiores dolores nesciunt. Vero perspiciatis adipisci atque nesciunt unde.</p>
-            <p>Iure aliquid, perferendis beatae sequi, inventore aut rerum nesciunt, quae nam distinctio recusandae at corporis? Maiores ex corporis libero magnam, officia quis quia iste aliquid, dignissimos magni eos vel eum?</p>
-            <p>Fuga exercitationem ipsam id, voluptate nulla numquam repellendus, corporis quam, aliquam sapiente nostrum officia dolores perferendis totam temporibus quos eos sed error. Animi eveniet sint amet recusandae illum inventore ut.</p>
-            <p>Eum sint magni pariatur facere consectetur? Ad laborum eos sunt voluptatum. Praesentium hic, placeat repellendus sunt reprehenderit illum eos, molestias officia laboriosam voluptas natus! Possimus eum impedit quo praesentium alias.</p>
-            <p>Possimus beatae ipsa fugit dicta libero! Saepe et eveniet recusandae quia tenetur inventore! Quisquam, a. Officia nisi a praesentium, consequuntur culpa dignissimos velit rerum. A dolorem deserunt alias libero porro.</p>
-            <p>Aliquam deleniti ut, soluta, magnam nemo velit veritatis minima vero expedita accusantium dolorem, consequuntur eaque excepturi aut corrupti! Autem recusandae voluptates beatae impedit velit distinctio vitae commodi repellendus aspernatur. Provident.</p>
-            <p>Aperiam temporibus reiciendis, mollitia ea tenetur est ex quod voluptatibus corrupti, sint rem corporis. Ipsam aliquam, a alias tempore, id, repellat consequuntur soluta delectus dolorem quia veritatis beatae architecto quos.</p>
-            <p>Quos nam pariatur, itaque neque dicta porro amet corrupti, adipisci velit consequuntur molestias quam provident, veritatis dolore ad aliquam voluptatum! Temporibus esse laudantium, modi pariatur quisquam ut itaque est repellat?</p>
+    <div class="contenedor mt-4">
+        <div class="bg-gray-200 p-4 relative">
+            <div class="bg-gray-400 p-4">
+                <div class="bg-blue-500 p-4">
+
+                </div>  
+                <div class="bg-blue-400 p-4 absolute inset-x-0 bottom-0">
+
+                </div>
+    
+            </div>
+
         </div>
     </div>
 </body>
