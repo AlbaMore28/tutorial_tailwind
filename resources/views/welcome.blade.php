@@ -6,21 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/contenedor.css') }}" rel="stylesheet">
-    <title>Document</title>
-    <style>
-        .imagen{
-            background-image: url("{{asset('img/perro1.jpg')}}");
-            height: 400px;
-            width: 900px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
+    <title>Tutorial Tailwind</title>
 </head>
 <body>
-    <div class="contenedor">
-        <div class="bg-gradient-to-r from-blue-500 via-green-600 to-yellow-400 text-center font-extrabold text-5xl bg-clip-text text-transparent">
-            Hola mundo
-        </div>
+    <div class="contenedor pt-5">
+        <div class="w-64 h-64 bg-gray-500 border-b-8 border-blue-800 hover:border-indigo-500"></div>
+    </div>
 </body>
 </html>
