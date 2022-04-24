@@ -10,9 +10,9 @@
 <body>
     <div class="contenedor">
         <div class="bg-gray-300 flex h-64 justify-center flex-wrap content-around">
-            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64">1</div>
-            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64">2</div>
-            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64">3</div>
+            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64 order-2">1</div>
+            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64 order-1">2</div>
+            <div class="bg-gray-400 text-gray-700 px-4 py-2 m-2 w-64 order-3">3</div>
         </div>
     </div>
 </body>
