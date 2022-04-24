@@ -21,7 +21,7 @@
     <div class="contenedor">
         <h1 class="text-center text-3xl font-bold mb-3">Background</h1>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, obcaecati asperiores eligendi ex aliquid omnis nobis debitis velit! Minus totam explicabo temporibus eligendi alias dolore ab minima amet reprehenderit inventore.</p>
-        <div class="imagen bg-contain"></div>
+        <div class="imagen bg-cover bg-center border-8 border-blue-600 border-dashed bg-clip-content p-4"></div>
     </div>
 </body>
 </html>
